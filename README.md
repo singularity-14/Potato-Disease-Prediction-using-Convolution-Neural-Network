@@ -47,9 +47,9 @@ The CNN model architecture comprises several convolutional layers followed by ma
 - Fine-tune hyperparameters like learning rate, dropout rate, and batch size to improve model performance.
 - Augment the dataset with techniques like rotation, flipping, or adding noise to increase model robustness.
 
-## File Structure
+## File Structure in Python Script
 
-- `potato_disease_prediction.py`: Main Python script for model training and evaluation.
+- `potato_disease_prediction.ipynb`: Main Python script for model training and evaluation.
 - `README.md`: This file providing an overview and instructions.
 - `potato_early_late/`: Directory containing the dataset split into training and test sets.
   
